@@ -1,0 +1,24 @@
+{
+  "name": "tsday-eslint-plugin",
+  "version": "1.0.0",
+  "description": "ESLint plugin example to share rule configs and create custom rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmeneses/tsday-eslint-plugin.git"
+  },
+  "keywords": [
+    "eslint",
+    "typescript",
+    "plugin"
+  ],
+  "author": "Daniela Meneses",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmeneses/tsday-eslint-plugin/issues"
+  },
+  "homepage": "https://github.com/dmeneses/tsday-eslint-plugin#readme"
+}
