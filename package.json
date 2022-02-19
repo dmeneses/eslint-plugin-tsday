@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-tsday",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "ESLint plugin example to share rule configs and create custom rules",
   "main": "dist/index.js",
   "files": [
