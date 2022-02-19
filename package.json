@@ -4,6 +4,7 @@
   "description": "ESLint plugin example to share rule configs and create custom rules",
   "main": "index.js",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/dmeneses/tsday-eslint-plugin/issues"
   },
-  "homepage": "https://github.com/dmeneses/tsday-eslint-plugin#readme"
+  "homepage": "https://github.com/dmeneses/tsday-eslint-plugin#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
 }
