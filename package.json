@@ -1,5 +1,5 @@
 {
-  "name": "tsday-eslint-plugin",
+  "name": "eslint-plugin-tsday",
   "version": "0.0.1",
   "description": "ESLint plugin example to share rule configs and create custom rules",
   "main": "lib/index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dmeneses/tsday-eslint-plugin.git"
+    "url": "git+https://github.com/dmeneses/eslint-plugin-tsday.git"
   },
   "keywords": [
     "eslint",
@@ -22,9 +22,9 @@
   "author": "Daniela Meneses",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dmeneses/tsday-eslint-plugin/issues"
+    "url": "https://github.com/dmeneses/eslint-plugin-tsday/issues"
   },
-  "homepage": "https://github.com/dmeneses/tsday-eslint-plugin#readme",
+  "homepage": "https://github.com/dmeneses/eslint-plugin-tsday#readme",
   "devDependencies": {
     "@types/node": "^17.0.18",
     "typescript": "^4.5.5"
