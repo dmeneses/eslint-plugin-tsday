@@ -1,8 +1,11 @@
 {
   "name": "tsday-eslint-plugin",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "ESLint plugin example to share rule configs and create custom rules",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "files": [
+    "dist/**/*"
+  ],
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
